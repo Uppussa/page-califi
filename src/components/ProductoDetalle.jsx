@@ -3,7 +3,7 @@ import { Box, Typography, Button, Paper } from '@mui/material';
 
 const ProductoDetalle = () => {
   return (
-    <Box >
+    <Box ml={'50px'}>
       <Typography variant="h6" component="div" gutterBottom>
         SNEAKER COMPANY
       </Typography>

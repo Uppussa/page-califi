@@ -12,11 +12,11 @@ function App() {
     <>
       <Navbar />
       <Box
-     
+
         display="flex"
         justifyContent="space-around"
         alignItems="center"
-        minHeight="111vh"
+        minHeight="100vh"
         sx={{ backgroundColor: 'white' }} >
         <Container maxWidth="lg">
           <Grid container spacing={4}>

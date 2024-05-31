@@ -54,7 +54,7 @@ function Navbar() {
               letterSpacing: '.3rem',
               color: 'black',
               textDecoration: 'none',
-              textTransform: 'none', // Cambia el texto a minúsculas
+              textTransform: 'none', 
             }}
           >
           Sneakers
@@ -111,7 +111,7 @@ function Navbar() {
               letterSpacing: '.3rem',
               color: 'black',
               textDecoration: 'none',
-              textTransform: 'none', // Cambia el texto a minúsculas
+              textTransform: 'none', 
             }}
           >
 
